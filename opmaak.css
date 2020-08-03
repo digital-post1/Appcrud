@@ -1,0 +1,46 @@
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+
+    bottom: 0px;
+    right: 5%;
+  }
+
+li.navbar {
+  float: left;
+}
+
+a.navbar {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+h1 {
+    bottom: 0;
+    border-style: solid;
+    background-color:rgb(76,175,80);
+
+}
+table.table{
+    padding: 8px;
+
+}
+ul.PosAndEdu{
+    list-style-type: none;
+    padding: 4px;
+    border-style: solid;
+
+    
+}
+input.fields{
+    padding: 8px;
+    margin: 4px;
+
+    
+}
+body{
+    height: 100%;
+    background-image: linear-gradient(to bottom,#dddddd , rgb(76,175,80));
+}
